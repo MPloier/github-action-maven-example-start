@@ -17,7 +17,7 @@ public class DeepThought {
             System.out.println(million_years + " million years have passed...");
             think(1);
         }
-        System.out.println("7.5 million years have now passed and I have a answer");
+        System.out.println("7.5 million years have now passed and I have an answer");
     }
 
     private void think(int time){
